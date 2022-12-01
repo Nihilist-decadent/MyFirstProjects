@@ -1,0 +1,8 @@
+C:\Users\danik\source\repos\ref\ref\bin\Debug\@ref.exe.config
+C:\Users\danik\source\repos\ref\ref\bin\Debug\@ref.exe
+C:\Users\danik\source\repos\ref\ref\bin\Debug\@ref.pdb
+C:\Users\danik\source\repos\ref\ref\obj\Debug\ref.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\ref\ref\obj\Debug\ref.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\source\repos\ref\ref\obj\Debug\ref.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\ref\ref\obj\Debug\@ref.exe
+C:\Users\danik\source\repos\ref\ref\obj\Debug\@ref.pdb

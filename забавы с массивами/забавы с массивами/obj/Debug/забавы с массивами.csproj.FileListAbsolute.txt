@@ -1,0 +1,8 @@
+C:\Users\danik\source\repos\забавы с массивами\забавы с массивами\bin\Debug\забавы с массивами.exe.config
+C:\Users\danik\source\repos\забавы с массивами\забавы с массивами\bin\Debug\забавы с массивами.exe
+C:\Users\danik\source\repos\забавы с массивами\забавы с массивами\bin\Debug\забавы с массивами.pdb
+C:\Users\danik\source\repos\забавы с массивами\забавы с массивами\obj\Debug\забавы с массивами.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\забавы с массивами\забавы с массивами\obj\Debug\забавы с массивами.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\source\repos\забавы с массивами\забавы с массивами\obj\Debug\забавы с массивами.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\забавы с массивами\забавы с массивами\obj\Debug\забавы с массивами.exe
+C:\Users\danik\source\repos\забавы с массивами\забавы с массивами\obj\Debug\забавы с массивами.pdb

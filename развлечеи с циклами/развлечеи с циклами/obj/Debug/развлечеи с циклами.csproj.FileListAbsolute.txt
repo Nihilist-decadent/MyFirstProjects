@@ -1,0 +1,8 @@
+C:\Users\danik\source\repos\развлечеи с циклами\развлечеи с циклами\bin\Debug\развлечеи с циклами.exe.config
+C:\Users\danik\source\repos\развлечеи с циклами\развлечеи с циклами\bin\Debug\развлечеи с циклами.exe
+C:\Users\danik\source\repos\развлечеи с циклами\развлечеи с циклами\bin\Debug\развлечеи с циклами.pdb
+C:\Users\danik\source\repos\развлечеи с циклами\развлечеи с циклами\obj\Debug\развлечеи с циклами.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\развлечеи с циклами\развлечеи с циклами\obj\Debug\развлечеи с циклами.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\source\repos\развлечеи с циклами\развлечеи с циклами\obj\Debug\развлечеи с циклами.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\развлечеи с циклами\развлечеи с циклами\obj\Debug\развлечеи с циклами.exe
+C:\Users\danik\source\repos\развлечеи с циклами\развлечеи с циклами\obj\Debug\развлечеи с циклами.pdb

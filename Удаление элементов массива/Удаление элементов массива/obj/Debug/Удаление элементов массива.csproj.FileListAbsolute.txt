@@ -1,0 +1,8 @@
+C:\Users\danik\source\repos\Удаление элементов массива\Удаление элементов массива\obj\Debug\Удаление элементов массива.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\Удаление элементов массива\Удаление элементов массива\obj\Debug\Удаление элементов массива.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\source\repos\Удаление элементов массива\Удаление элементов массива\obj\Debug\Удаление элементов массива.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\Удаление элементов массива\Удаление элементов массива\bin\Debug\Удаление элементов массива.exe.config
+C:\Users\danik\source\repos\Удаление элементов массива\Удаление элементов массива\bin\Debug\Удаление элементов массива.exe
+C:\Users\danik\source\repos\Удаление элементов массива\Удаление элементов массива\bin\Debug\Удаление элементов массива.pdb
+C:\Users\danik\source\repos\Удаление элементов массива\Удаление элементов массива\obj\Debug\Удаление элементов массива.exe
+C:\Users\danik\source\repos\Удаление элементов массива\Удаление элементов массива\obj\Debug\Удаление элементов массива.pdb

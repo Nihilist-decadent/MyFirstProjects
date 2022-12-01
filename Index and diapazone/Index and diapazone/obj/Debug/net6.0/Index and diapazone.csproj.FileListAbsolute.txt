@@ -1,0 +1,15 @@
+C:\Users\danik\source\repos\Index and diapazone\Index and diapazone\bin\Debug\net6.0\Index and diapazone.exe
+C:\Users\danik\source\repos\Index and diapazone\Index and diapazone\bin\Debug\net6.0\Index and diapazone.deps.json
+C:\Users\danik\source\repos\Index and diapazone\Index and diapazone\bin\Debug\net6.0\Index and diapazone.runtimeconfig.json
+C:\Users\danik\source\repos\Index and diapazone\Index and diapazone\bin\Debug\net6.0\Index and diapazone.dll
+C:\Users\danik\source\repos\Index and diapazone\Index and diapazone\bin\Debug\net6.0\ref\Index and diapazone.dll
+C:\Users\danik\source\repos\Index and diapazone\Index and diapazone\bin\Debug\net6.0\Index and diapazone.pdb
+C:\Users\danik\source\repos\Index and diapazone\Index and diapazone\obj\Debug\net6.0\Index and diapazone.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\Index and diapazone\Index and diapazone\obj\Debug\net6.0\Index and diapazone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danik\source\repos\Index and diapazone\Index and diapazone\obj\Debug\net6.0\Index and diapazone.AssemblyInfoInputs.cache
+C:\Users\danik\source\repos\Index and diapazone\Index and diapazone\obj\Debug\net6.0\Index and diapazone.AssemblyInfo.cs
+C:\Users\danik\source\repos\Index and diapazone\Index and diapazone\obj\Debug\net6.0\Index and diapazone.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\Index and diapazone\Index and diapazone\obj\Debug\net6.0\Index and diapazone.dll
+C:\Users\danik\source\repos\Index and diapazone\Index and diapazone\obj\Debug\net6.0\ref\Index and diapazone.dll
+C:\Users\danik\source\repos\Index and diapazone\Index and diapazone\obj\Debug\net6.0\Index and diapazone.pdb
+C:\Users\danik\source\repos\Index and diapazone\Index and diapazone\obj\Debug\net6.0\Index and diapazone.genruntimeconfig.cache

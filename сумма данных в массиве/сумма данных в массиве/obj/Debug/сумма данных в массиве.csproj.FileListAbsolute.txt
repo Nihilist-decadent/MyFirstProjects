@@ -1,0 +1,8 @@
+C:\Users\danik\source\repos\сумма данных в массиве\сумма данных в массиве\bin\Debug\сумма данных в массиве.exe.config
+C:\Users\danik\source\repos\сумма данных в массиве\сумма данных в массиве\bin\Debug\сумма данных в массиве.exe
+C:\Users\danik\source\repos\сумма данных в массиве\сумма данных в массиве\bin\Debug\сумма данных в массиве.pdb
+C:\Users\danik\source\repos\сумма данных в массиве\сумма данных в массиве\obj\Debug\сумма данных в массиве.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\сумма данных в массиве\сумма данных в массиве\obj\Debug\сумма данных в массиве.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\source\repos\сумма данных в массиве\сумма данных в массиве\obj\Debug\сумма данных в массиве.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\сумма данных в массиве\сумма данных в массиве\obj\Debug\сумма данных в массиве.exe
+C:\Users\danik\source\repos\сумма данных в массиве\сумма данных в массиве\obj\Debug\сумма данных в массиве.pdb

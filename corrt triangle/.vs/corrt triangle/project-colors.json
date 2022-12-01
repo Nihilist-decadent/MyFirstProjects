@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8001bbc4-e21f-4638-b8ff-290a1e2838b3": {
+      "ProjectGuid": "8001bbc4-e21f-4638-b8ff-290a1e2838b3",
+      "DisplayName": "corrt triangle",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

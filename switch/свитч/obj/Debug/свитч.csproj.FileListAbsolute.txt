@@ -1,0 +1,8 @@
+C:\Users\danik\source\repos\switch\свитч\bin\Debug\свитч.exe.config
+C:\Users\danik\source\repos\switch\свитч\bin\Debug\свитч.exe
+C:\Users\danik\source\repos\switch\свитч\bin\Debug\свитч.pdb
+C:\Users\danik\source\repos\switch\свитч\obj\Debug\свитч.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\switch\свитч\obj\Debug\свитч.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\source\repos\switch\свитч\obj\Debug\свитч.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\switch\свитч\obj\Debug\свитч.exe
+C:\Users\danik\source\repos\switch\свитч\obj\Debug\свитч.pdb

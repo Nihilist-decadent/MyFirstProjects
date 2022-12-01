@@ -1,0 +1,8 @@
+C:\Users\danik\source\repos\сумма числа 561\сумма числа 561\bin\Debug\сумма числа 561.exe.config
+C:\Users\danik\source\repos\сумма числа 561\сумма числа 561\bin\Debug\сумма числа 561.exe
+C:\Users\danik\source\repos\сумма числа 561\сумма числа 561\bin\Debug\сумма числа 561.pdb
+C:\Users\danik\source\repos\сумма числа 561\сумма числа 561\obj\Debug\сумма числа 561.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\сумма числа 561\сумма числа 561\obj\Debug\сумма числа 561.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\source\repos\сумма числа 561\сумма числа 561\obj\Debug\сумма числа 561.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\сумма числа 561\сумма числа 561\obj\Debug\сумма числа 561.exe
+C:\Users\danik\source\repos\сумма числа 561\сумма числа 561\obj\Debug\сумма числа 561.pdb

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1c94fd9-7ae8-4ea3-bdc4-ec23bc5af1ee": {
+      "ProjectGuid": "d1c94fd9-7ae8-4ea3-bdc4-ec23bc5af1ee",
+      "DisplayName": "MyMetod",
+      "ColorIndex": 0
+    },
+    "4c23b45a-2e28-40a5-8726-d0c40859242a": {
+      "ProjectGuid": "4c23b45a-2e28-40a5-8726-d0c40859242a",
+      "DisplayName": "DH",
+      "ColorIndex": 1
+    },
+    "8001bbc4-e21f-4638-b8ff-290a1e2838b3": {
+      "ProjectGuid": "8001bbc4-e21f-4638-b8ff-290a1e2838b3",
+      "DisplayName": "corrt triangle",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

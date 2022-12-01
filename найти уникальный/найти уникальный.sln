@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "найти уникальный", "найти уникальный\найти уникальный.csproj", "{6108EDA6-3D7E-4B83-8600-FBBB7867D40F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6108EDA6-3D7E-4B83-8600-FBBB7867D40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6108EDA6-3D7E-4B83-8600-FBBB7867D40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6108EDA6-3D7E-4B83-8600-FBBB7867D40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6108EDA6-3D7E-4B83-8600-FBBB7867D40F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74AEA7C0-5BD6-438B-9B05-8723BB88AF90}
+	EndGlobalSection
+EndGlobal

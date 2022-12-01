@@ -1,0 +1,8 @@
+C:\Users\danik\source\repos\подщет чисел циклы\подщет чисел циклы\bin\Debug\подщет чисел циклы.exe.config
+C:\Users\danik\source\repos\подщет чисел циклы\подщет чисел циклы\bin\Debug\подщет чисел циклы.exe
+C:\Users\danik\source\repos\подщет чисел циклы\подщет чисел циклы\bin\Debug\подщет чисел циклы.pdb
+C:\Users\danik\source\repos\подщет чисел циклы\подщет чисел циклы\obj\Debug\подщет чисел циклы.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\подщет чисел циклы\подщет чисел циклы\obj\Debug\подщет чисел циклы.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\source\repos\подщет чисел циклы\подщет чисел циклы\obj\Debug\подщет чисел циклы.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\подщет чисел циклы\подщет чисел циклы\obj\Debug\подщет чисел циклы.exe
+C:\Users\danik\source\repos\подщет чисел циклы\подщет чисел циклы\obj\Debug\подщет чисел циклы.pdb

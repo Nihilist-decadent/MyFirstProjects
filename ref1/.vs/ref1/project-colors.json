@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "24ab316a-2d66-421f-b150-2f3e529bcc81": {
+      "ProjectGuid": "24ab316a-2d66-421f-b150-2f3e529bcc81",
+      "DisplayName": "ref1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

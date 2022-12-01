@@ -1,0 +1,8 @@
+C:\Users\danik\source\repos\HW 1 Andrey\HW 1 Andrey\bin\Debug\HW 1 Andrey.exe.config
+C:\Users\danik\source\repos\HW 1 Andrey\HW 1 Andrey\bin\Debug\HW 1 Andrey.exe
+C:\Users\danik\source\repos\HW 1 Andrey\HW 1 Andrey\bin\Debug\HW 1 Andrey.pdb
+C:\Users\danik\source\repos\HW 1 Andrey\HW 1 Andrey\obj\Debug\HW 1 Andrey.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\HW 1 Andrey\HW 1 Andrey\obj\Debug\HW 1 Andrey.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\source\repos\HW 1 Andrey\HW 1 Andrey\obj\Debug\HW 1 Andrey.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\HW 1 Andrey\HW 1 Andrey\obj\Debug\HW 1 Andrey.exe
+C:\Users\danik\source\repos\HW 1 Andrey\HW 1 Andrey\obj\Debug\HW 1 Andrey.pdb

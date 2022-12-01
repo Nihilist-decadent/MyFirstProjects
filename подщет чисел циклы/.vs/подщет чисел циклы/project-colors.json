@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2db44b3f-2469-4ae1-98ae-496ace8e2670": {
+      "ProjectGuid": "2db44b3f-2469-4ae1-98ae-496ace8e2670",
+      "DisplayName": "подщет чисел циклы",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

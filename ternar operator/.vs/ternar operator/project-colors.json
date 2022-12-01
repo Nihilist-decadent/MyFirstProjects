@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "717f384a-02e7-4e47-9c40-d85ef65c071d": {
+      "ProjectGuid": "717f384a-02e7-4e47-9c40-d85ef65c071d",
+      "DisplayName": "ternar operator",
+      "ColorIndex": 0
+    },
+    "197f9da3-2e10-4c7f-bc77-7dc0e722fa90": {
+      "ProjectGuid": "197f9da3-2e10-4c7f-bc77-7dc0e722fa90",
+      "DisplayName": "value ternar operator",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

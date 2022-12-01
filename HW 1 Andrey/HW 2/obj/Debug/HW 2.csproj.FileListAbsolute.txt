@@ -1,0 +1,8 @@
+C:\Users\danik\source\repos\HW 1 Andrey\HW 2\bin\Debug\HW 2.exe.config
+C:\Users\danik\source\repos\HW 1 Andrey\HW 2\bin\Debug\HW 2.exe
+C:\Users\danik\source\repos\HW 1 Andrey\HW 2\bin\Debug\HW 2.pdb
+C:\Users\danik\source\repos\HW 1 Andrey\HW 2\obj\Debug\HW 2.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\HW 1 Andrey\HW 2\obj\Debug\HW 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\source\repos\HW 1 Andrey\HW 2\obj\Debug\HW 2.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\HW 1 Andrey\HW 2\obj\Debug\HW 2.exe
+C:\Users\danik\source\repos\HW 1 Andrey\HW 2\obj\Debug\HW 2.pdb

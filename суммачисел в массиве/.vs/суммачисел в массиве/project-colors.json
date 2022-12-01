@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "20d7a09c-3117-4540-8258-af022ed1f5bb": {
+      "ProjectGuid": "20d7a09c-3117-4540-8258-af022ed1f5bb",
+      "DisplayName": "суммачисел в массиве",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

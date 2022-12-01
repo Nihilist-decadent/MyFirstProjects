@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "индексы и диапозоны", "индексы и диапозоны\индексы и диапозоны.csproj", "{31FD55BC-4BA4-4DDD-AB31-52C15DCB00EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31FD55BC-4BA4-4DDD-AB31-52C15DCB00EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FD55BC-4BA4-4DDD-AB31-52C15DCB00EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FD55BC-4BA4-4DDD-AB31-52C15DCB00EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FD55BC-4BA4-4DDD-AB31-52C15DCB00EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63896738-7927-45F6-8C17-850642BB35E7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\danik\source\repos\цикл\цикл\bin\Debug\цикл.exe.config
+C:\Users\danik\source\repos\цикл\цикл\bin\Debug\цикл.exe
+C:\Users\danik\source\repos\цикл\цикл\bin\Debug\цикл.pdb
+C:\Users\danik\source\repos\цикл\цикл\obj\Debug\цикл.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\цикл\цикл\obj\Debug\цикл.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\source\repos\цикл\цикл\obj\Debug\цикл.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\цикл\цикл\obj\Debug\цикл.exe
+C:\Users\danik\source\repos\цикл\цикл\obj\Debug\цикл.pdb

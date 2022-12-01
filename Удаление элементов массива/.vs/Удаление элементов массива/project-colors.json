@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5c6950c3-ef1b-4336-a878-289f73eae3f9": {
+      "ProjectGuid": "5c6950c3-ef1b-4336-a878-289f73eae3f9",
+      "DisplayName": "Удаление элементов массива",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

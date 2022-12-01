@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a7af1d0b-7477-4a99-80ec-170b4fbcb8ef": {
+      "ProjectGuid": "a7af1d0b-7477-4a99-80ec-170b4fbcb8ef",
+      "DisplayName": "иф елс",
+      "ColorIndex": 0
+    },
+    "a0ba3b38-fc38-411b-a13c-e42d98bf7ce0": {
+      "ProjectGuid": "a0ba3b38-fc38-411b-a13c-e42d98bf7ce0",
+      "DisplayName": "Калькулятор",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

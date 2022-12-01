@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "de04a852-3e1d-4d88-9f1d-e5527ef2d429": {
+      "ProjectGuid": "de04a852-3e1d-4d88-9f1d-e5527ef2d429",
+      "DisplayName": "массив в обратном",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

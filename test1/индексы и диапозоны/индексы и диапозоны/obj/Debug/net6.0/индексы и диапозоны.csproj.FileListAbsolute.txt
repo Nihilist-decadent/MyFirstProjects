@@ -1,0 +1,15 @@
+C:\Users\danik\source\repos\индексы и диапозоны\индексы и диапозоны\bin\Debug\net6.0\индексы и диапозоны.exe
+C:\Users\danik\source\repos\индексы и диапозоны\индексы и диапозоны\bin\Debug\net6.0\индексы и диапозоны.deps.json
+C:\Users\danik\source\repos\индексы и диапозоны\индексы и диапозоны\bin\Debug\net6.0\индексы и диапозоны.runtimeconfig.json
+C:\Users\danik\source\repos\индексы и диапозоны\индексы и диапозоны\bin\Debug\net6.0\индексы и диапозоны.dll
+C:\Users\danik\source\repos\индексы и диапозоны\индексы и диапозоны\bin\Debug\net6.0\ref\индексы и диапозоны.dll
+C:\Users\danik\source\repos\индексы и диапозоны\индексы и диапозоны\bin\Debug\net6.0\индексы и диапозоны.pdb
+C:\Users\danik\source\repos\индексы и диапозоны\индексы и диапозоны\obj\Debug\net6.0\индексы и диапозоны.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\индексы и диапозоны\индексы и диапозоны\obj\Debug\net6.0\индексы и диапозоны.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danik\source\repos\индексы и диапозоны\индексы и диапозоны\obj\Debug\net6.0\индексы и диапозоны.AssemblyInfoInputs.cache
+C:\Users\danik\source\repos\индексы и диапозоны\индексы и диапозоны\obj\Debug\net6.0\индексы и диапозоны.AssemblyInfo.cs
+C:\Users\danik\source\repos\индексы и диапозоны\индексы и диапозоны\obj\Debug\net6.0\индексы и диапозоны.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\индексы и диапозоны\индексы и диапозоны\obj\Debug\net6.0\индексы и диапозоны.dll
+C:\Users\danik\source\repos\индексы и диапозоны\индексы и диапозоны\obj\Debug\net6.0\ref\индексы и диапозоны.dll
+C:\Users\danik\source\repos\индексы и диапозоны\индексы и диапозоны\obj\Debug\net6.0\индексы и диапозоны.pdb
+C:\Users\danik\source\repos\индексы и диапозоны\индексы и диапозоны\obj\Debug\net6.0\индексы и диапозоны.genruntimeconfig.cache

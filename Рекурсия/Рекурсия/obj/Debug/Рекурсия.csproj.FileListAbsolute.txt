@@ -1,0 +1,8 @@
+C:\Users\danik\source\repos\Рекурсия\Рекурсия\obj\Debug\Рекурсия.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\Рекурсия\Рекурсия\obj\Debug\Рекурсия.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\source\repos\Рекурсия\Рекурсия\obj\Debug\Рекурсия.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\Рекурсия\Рекурсия\bin\Debug\Рекурсия.exe.config
+C:\Users\danik\source\repos\Рекурсия\Рекурсия\bin\Debug\Рекурсия.exe
+C:\Users\danik\source\repos\Рекурсия\Рекурсия\bin\Debug\Рекурсия.pdb
+C:\Users\danik\source\repos\Рекурсия\Рекурсия\obj\Debug\Рекурсия.exe
+C:\Users\danik\source\repos\Рекурсия\Рекурсия\obj\Debug\Рекурсия.pdb

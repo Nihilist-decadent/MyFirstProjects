@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f4134d8f-aa3c-433c-8fdf-e88e8a624c93": {
+      "ProjectGuid": "f4134d8f-aa3c-433c-8fdf-e88e8a624c93",
+      "DisplayName": "Метод для добавления элем в начало массива",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

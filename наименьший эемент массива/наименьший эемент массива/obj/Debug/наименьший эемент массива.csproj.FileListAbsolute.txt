@@ -1,0 +1,8 @@
+C:\Users\danik\source\repos\наименьший эемент массива\наименьший эемент массива\bin\Debug\наименьший эемент массива.exe.config
+C:\Users\danik\source\repos\наименьший эемент массива\наименьший эемент массива\bin\Debug\наименьший эемент массива.exe
+C:\Users\danik\source\repos\наименьший эемент массива\наименьший эемент массива\bin\Debug\наименьший эемент массива.pdb
+C:\Users\danik\source\repos\наименьший эемент массива\наименьший эемент массива\obj\Debug\наименьший эемент массива.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\наименьший эемент массива\наименьший эемент массива\obj\Debug\наименьший эемент массива.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\source\repos\наименьший эемент массива\наименьший эемент массива\obj\Debug\наименьший эемент массива.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\наименьший эемент массива\наименьший эемент массива\obj\Debug\наименьший эемент массива.exe
+C:\Users\danik\source\repos\наименьший эемент массива\наименьший эемент массива\obj\Debug\наименьший эемент массива.pdb

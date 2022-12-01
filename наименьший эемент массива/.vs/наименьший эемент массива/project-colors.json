@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e0c2a580-19c4-4498-b563-3b52e6ae6274": {
+      "ProjectGuid": "e0c2a580-19c4-4498-b563-3b52e6ae6274",
+      "DisplayName": "наименьший эемент массива",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+C:\Users\danik\source\repos\MyMetod\DH\bin\Debug\DH.exe.config
+C:\Users\danik\source\repos\MyMetod\DH\bin\Debug\DH.exe
+C:\Users\danik\source\repos\MyMetod\DH\bin\Debug\DH.pdb
+C:\Users\danik\source\repos\MyMetod\DH\obj\Debug\DH.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\MyMetod\DH\obj\Debug\DH.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\source\repos\MyMetod\DH\obj\Debug\DH.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\MyMetod\DH\obj\Debug\DH.exe
+C:\Users\danik\source\repos\MyMetod\DH\obj\Debug\DH.pdb

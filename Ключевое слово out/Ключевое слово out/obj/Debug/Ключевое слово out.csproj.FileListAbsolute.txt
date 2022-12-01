@@ -1,0 +1,8 @@
+C:\Users\danik\source\repos\Ключевое слово out\Ключевое слово out\bin\Debug\Ключевое слово out.exe.config
+C:\Users\danik\source\repos\Ключевое слово out\Ключевое слово out\bin\Debug\Ключевое слово out.exe
+C:\Users\danik\source\repos\Ключевое слово out\Ключевое слово out\bin\Debug\Ключевое слово out.pdb
+C:\Users\danik\source\repos\Ключевое слово out\Ключевое слово out\obj\Debug\Ключевое слово out.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\Ключевое слово out\Ключевое слово out\obj\Debug\Ключевое слово out.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\source\repos\Ключевое слово out\Ключевое слово out\obj\Debug\Ключевое слово out.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\Ключевое слово out\Ключевое слово out\obj\Debug\Ключевое слово out.exe
+C:\Users\danik\source\repos\Ключевое слово out\Ключевое слово out\obj\Debug\Ключевое слово out.pdb

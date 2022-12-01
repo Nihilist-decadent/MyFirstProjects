@@ -1,0 +1,8 @@
+C:\Users\danik\source\repos\zabawy z null\zabawy z null\bin\Debug\zabawy z null.exe.config
+C:\Users\danik\source\repos\zabawy z null\zabawy z null\bin\Debug\zabawy z null.exe
+C:\Users\danik\source\repos\zabawy z null\zabawy z null\bin\Debug\zabawy z null.pdb
+C:\Users\danik\source\repos\zabawy z null\zabawy z null\obj\Debug\zabawy z null.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\zabawy z null\zabawy z null\obj\Debug\zabawy z null.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\source\repos\zabawy z null\zabawy z null\obj\Debug\zabawy z null.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\zabawy z null\zabawy z null\obj\Debug\zabawy z null.exe
+C:\Users\danik\source\repos\zabawy z null\zabawy z null\obj\Debug\zabawy z null.pdb

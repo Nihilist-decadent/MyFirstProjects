@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ternar operator", "ternar operator\ternar operator.csproj", "{717F384A-02E7-4E47-9C40-D85EF65C071D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "value ternar operator", "value ternar operator\value ternar operator.csproj", "{197F9DA3-2E10-4C7F-BC77-7DC0E722FA90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{717F384A-02E7-4E47-9C40-D85EF65C071D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717F384A-02E7-4E47-9C40-D85EF65C071D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717F384A-02E7-4E47-9C40-D85EF65C071D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717F384A-02E7-4E47-9C40-D85EF65C071D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{197F9DA3-2E10-4C7F-BC77-7DC0E722FA90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197F9DA3-2E10-4C7F-BC77-7DC0E722FA90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197F9DA3-2E10-4C7F-BC77-7DC0E722FA90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{197F9DA3-2E10-4C7F-BC77-7DC0E722FA90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA6FE56F-3144-4019-B751-719145B295E0}
+	EndGlobalSection
+EndGlobal

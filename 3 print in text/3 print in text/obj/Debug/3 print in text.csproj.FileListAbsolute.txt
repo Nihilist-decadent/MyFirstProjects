@@ -1,0 +1,8 @@
+C:\Users\danik\source\repos\3 print in text\3 print in text\obj\Debug\3 print in text.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\3 print in text\3 print in text\obj\Debug\3 print in text.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\source\repos\3 print in text\3 print in text\obj\Debug\3 print in text.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\3 print in text\3 print in text\bin\Debug\3 print in text.exe.config
+C:\Users\danik\source\repos\3 print in text\3 print in text\bin\Debug\3 print in text.exe
+C:\Users\danik\source\repos\3 print in text\3 print in text\bin\Debug\3 print in text.pdb
+C:\Users\danik\source\repos\3 print in text\3 print in text\obj\Debug\3 print in text.exe
+C:\Users\danik\source\repos\3 print in text\3 print in text\obj\Debug\3 print in text.pdb

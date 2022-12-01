@@ -1,0 +1,8 @@
+C:\Users\danik\source\repos\MyMetod\MyMetod\bin\Debug\MyMetod.exe.config
+C:\Users\danik\source\repos\MyMetod\MyMetod\bin\Debug\MyMetod.exe
+C:\Users\danik\source\repos\MyMetod\MyMetod\bin\Debug\MyMetod.pdb
+C:\Users\danik\source\repos\MyMetod\MyMetod\obj\Debug\MyMetod.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\MyMetod\MyMetod\obj\Debug\MyMetod.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\source\repos\MyMetod\MyMetod\obj\Debug\MyMetod.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\MyMetod\MyMetod\obj\Debug\MyMetod.exe
+C:\Users\danik\source\repos\MyMetod\MyMetod\obj\Debug\MyMetod.pdb

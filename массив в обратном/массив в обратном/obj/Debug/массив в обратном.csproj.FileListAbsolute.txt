@@ -1,0 +1,8 @@
+C:\Users\danik\source\repos\массив в обратном\массив в обратном\bin\Debug\массив в обратном.exe.config
+C:\Users\danik\source\repos\массив в обратном\массив в обратном\bin\Debug\массив в обратном.exe
+C:\Users\danik\source\repos\массив в обратном\массив в обратном\bin\Debug\массив в обратном.pdb
+C:\Users\danik\source\repos\массив в обратном\массив в обратном\obj\Debug\массив в обратном.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\массив в обратном\массив в обратном\obj\Debug\массив в обратном.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\source\repos\массив в обратном\массив в обратном\obj\Debug\массив в обратном.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\массив в обратном\массив в обратном\obj\Debug\массив в обратном.exe
+C:\Users\danik\source\repos\массив в обратном\массив в обратном\obj\Debug\массив в обратном.pdb

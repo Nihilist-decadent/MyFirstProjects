@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Добавление элементов по индексу", "Добавление элементов по индексу\Добавление элементов по индексу.csproj", "{0D14B523-4EB4-4684-8172-F5E4C9A022A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D14B523-4EB4-4684-8172-F5E4C9A022A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D14B523-4EB4-4684-8172-F5E4C9A022A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D14B523-4EB4-4684-8172-F5E4C9A022A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D14B523-4EB4-4684-8172-F5E4C9A022A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {785DF50A-F4B3-4028-8DA1-9A2CC8D030DE}
+	EndGlobalSection
+EndGlobal
